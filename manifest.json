@@ -1,0 +1,89 @@
+{
+  "id": "neizai_dongji",
+  "title": "内在动机：自主掌控人生的力量",
+  "author": "爱德华·L. 德西（Edward L. Deci）、理查德·弗拉斯特（Richard Flaste）",
+  "category": "psyche",
+  "audio_dir": "neizai_dongji",
+  "repo": "wilson2000go/neizai-dongji-audiobook",
+  "total_duration": 10871,
+  "tracks": [
+    {
+      "index": 1,
+      "title": "第1章 但他是老板：权威和不满",
+      "file": "audio/neizai_dongji/01_第1章_但他是老板_权威和不满.mp3",
+      "duration": 731
+    },
+    {
+      "index": 2,
+      "title": "第2章 我只是为了钱：关于奖赏和疏离的早期实验",
+      "file": "audio/neizai_dongji/02_第2章_我只是为了钱_关于奖赏和疏离的早期实验.mp3",
+      "duration": 726
+    },
+    {
+      "index": 3,
+      "title": "第3章 我能决定自己的选择：个人自主的需要",
+      "file": "audio/neizai_dongji/03_第3章_我能决定自己的选择_个人自主的需要.mp3",
+      "duration": 876
+    },
+    {
+      "index": 4,
+      "title": "第4章 追求体验还是结果：内在动机与外部控制",
+      "file": "audio/neizai_dongji/04_第4章_追求体验还是结果_内在动机与外部控制.mp3",
+      "duration": 783
+    },
+    {
+      "index": 5,
+      "title": "第5章 我能做到：带着胜任感面对人生挑战",
+      "file": "audio/neizai_dongji/05_第5章_我能做到_带着胜任感面对人生挑战.mp3",
+      "duration": 702
+    },
+    {
+      "index": 6,
+      "title": "第6章 走向自我的一致与和谐：发展的内在力量",
+      "file": "audio/neizai_dongji/06_第6章_走向自我的一致与和谐_发展的内在力量.mp3",
+      "duration": 922
+    },
+    {
+      "index": 7,
+      "title": "第7章 自主地承担重要但无趣的事：当社会召唤时",
+      "file": "audio/neizai_dongji/07_第7章_自主地承担重要但无趣的事_当社会召唤时.mp3",
+      "duration": 825
+    },
+    {
+      "index": 8,
+      "title": "第8章 关于应该、必须、不得不的信念：社会中的自我",
+      "file": "audio/neizai_dongji/08_第8章_关于应该_必须_不得不的信念_社会中的自我.mp3",
+      "duration": 826
+    },
+    {
+      "index": 9,
+      "title": "第9章 美国梦的代价：当社会问题恶化时",
+      "file": "audio/neizai_dongji/09_第9章_美国梦的代价_当社会问题恶化时.mp3",
+      "duration": 795
+    },
+    {
+      "index": 10,
+      "title": "第10章 从他人的角度出发：如何促进自主",
+      "file": "audio/neizai_dongji/10_第10章_从他人的角度出发_如何促进自主.mp3",
+      "duration": 984
+    },
+    {
+      "index": 11,
+      "title": "第11章 从探索动机开始：促进健康的行为",
+      "file": "audio/neizai_dongji/11_第11章_从探索动机开始_促进健康的行为.mp3",
+      "duration": 908
+    },
+    {
+      "index": 12,
+      "title": "第12章 摆脱束缚，接纳自我：在控制中做到自主",
+      "file": "audio/neizai_dongji/12_第12章_摆脱束缚_接纳自我_在控制中做到自主.mp3",
+      "duration": 725
+    },
+    {
+      "index": 13,
+      "title": "第13章 追求自主的意义",
+      "file": "audio/neizai_dongji/13_第13章_追求自主的意义.mp3",
+      "duration": 1068
+    }
+  ]
+}
